@@ -1,0 +1,9 @@
+{
+    "name": "ForeverGolfCart",
+    "version_number": "0.3.2",
+    "website_url": "",
+    "description": "Hold Q to spawn a pastel-tinted golf cart you immediately drive. Empties after exit, so you can summon a fresh cart whenever you need one.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ]
+}
